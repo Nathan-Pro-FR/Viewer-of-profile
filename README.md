@@ -21,28 +21,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Nathan-Pro-FR/Viewer-of-profile/tree/master/readme/1252168811/week.md">
-				Viewer-of-profile
-			</a>
-		</td>
-		<td>
-			2026/8/9 1:54 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Nathan-Pro-FR/Viewer-of-profile/raw/master/graph/1252168811/small/week.png" height="20"> 6
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Nathan-Pro-FR/Viewer-of-profile/tree/master/readme/1244996029/week.md">
 				Porftolio_Nathan
 			</a>
 		</td>
 		<td>
-			2026/8/9 1:54 AM UTC
+			2026/8/10 1:59 AM UTC
 		</td>
 		<td>
 			17
@@ -53,7 +37,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/11 7:04 PM UTC</i></small>
+<small><i>Last updated on 2026/8/12 2:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
